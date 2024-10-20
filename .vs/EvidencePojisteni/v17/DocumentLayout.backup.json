@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\kontrolaudaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\kontrolaudaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\datapojisteneho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\datapojisteneho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\manazerevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\manazerevidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\uzivatelskerozhrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\uzivatelskerozhrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|c:\\users\\pethe\\documents\\program_zkouska_software\\evidencepojisteni\\evidencepojisteni\\hlavniobrazovka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF0926E-D2D4-4EF5-8544-9530D6A293F6}|EvidencePojisteni\\EvidencePojisteni.csproj|solutionrelative:evidencepojisteni\\hlavniobrazovka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataPojisteneho.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\DataPojisteneho.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\DataPojisteneho.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\DataPojisteneho.cs",
+              "RelativeToolTip": "EvidencePojisteni\\DataPojisteneho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:19:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManazerEvidence.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\ManazerEvidence.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\ManazerEvidence.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\ManazerEvidence.cs",
+              "RelativeToolTip": "EvidencePojisteni\\ManazerEvidence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:04:46.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UzivatelskeRozhrani.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\UzivatelskeRozhrani.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\UzivatelskeRozhrani.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\UzivatelskeRozhrani.cs",
+              "RelativeToolTip": "EvidencePojisteni\\UzivatelskeRozhrani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:57:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KontrolaUdaje.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\KontrolaUdaje.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\KontrolaUdaje.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\KontrolaUdaje.cs",
+              "RelativeToolTip": "EvidencePojisteni\\KontrolaUdaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:39:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pojistenec.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\Pojistenec.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\Pojistenec.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\Pojistenec.cs",
+              "RelativeToolTip": "EvidencePojisteni\\Pojistenec.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:35:54.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HlavniObrazovka.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\HlavniObrazovka.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\HlavniObrazovka.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\HlavniObrazovka.cs",
+              "RelativeToolTip": "EvidencePojisteni\\HlavniObrazovka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:52:47.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\Program.cs",
+              "RelativeDocumentMoniker": "EvidencePojisteni\\Program.cs",
+              "ToolTip": "C:\\Users\\pethe\\Documents\\Program_Zkouska_Software\\EvidencePojisteni\\EvidencePojisteni\\Program.cs",
+              "RelativeToolTip": "EvidencePojisteni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:33:08.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
